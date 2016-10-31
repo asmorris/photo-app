@@ -15,6 +15,7 @@ gem 'coffee-rails', '~> 4.2'
 gem 'devise'
 gem 'twitter-bootstrap-rails'
 gem 'devise-bootstrap-views'
+gem 'stripe'
 # See https://github.com/rails/execjs#readme for more supported runtimes
 # gem 'therubyracer', platforms: :ruby
 
